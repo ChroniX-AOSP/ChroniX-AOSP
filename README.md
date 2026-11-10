@@ -1,19 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on Custom Roms<br>🤝 Chilling Just Like U<br>🌱 Also learning Python & AOSP<br>⚡ I Use Arch BTW
+![Time Badge](https://readmeme.eu.cc/api/time.svg?timezone=Asia%2FKolkata&theme=classic&timeFormat=12h&showSeconds=0&showDate=1&showDay=1&label=Local+Time)
+![Date Stamp](https://readmeme.eu.cc/api/date.svg?timezone=Asia%2FKolkata&theme=classic&label=Local+Time)
 
+![Profile Card](https://readmeme.eu.cc/api/profile.svg?avatar=https%3A%2F%2Fgithub.com%2FChroniX-AOSP.png&name=Chronix&role=Beginner+Dev+&bio=Rookie+AOSP+Dev+and+Explorer.&skills=PYTHON%2CGIT%2CTS%2CGITHUB%2CLINUX%2CRUST&handle=ChroniX-AOSP&theme=classic)
+![Coding Streak](https://readmeme.eu.cc/api/streak.svg?startDate=2024-01-01&unit=months&theme=ink&customLabel=Thriving+Since&platform=github)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chronix_aeo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ChronixAE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phoniexpaul88@gmail.com) 
-
-# 💻 Tech Stack:
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChroniX-AOSP&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ChroniX-AOSP&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChroniX-AOSP&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ChroniX-AOSP&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Social Links Panel](https://readmeme.eu.cc/api/social.svg?social_github=ChroniX-AOSP&social_youtube=chronix_ae&social_instagram=chronix-aep&socialLayout=row&socialStyle=standard&useBrandColors=0&theme=ink)
